@@ -30,7 +30,7 @@ STRX utilizes Google's Gemini API to process certain commands and generate respo
 
 ## 5. Privacy and Data Collection
 
-STRX may collect and store data as part of its core functionalities. By using the bot, you consent to such data collection and usage. We are committed to maintaining the confidentiality and security of your data. For more details, please refer to our [Privacy Policy](link-to-privacy-policy).
+STRX may collect and store data as part of its core functionalities. By using the bot, you consent to such data collection and usage. We are committed to maintaining the confidentiality and security of your data. For more details, please refer to our [Privacy Policy](privacy-policy.md).
 
 ## 6. Open Source Licensing
 
